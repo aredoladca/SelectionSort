@@ -8,6 +8,11 @@ package ioc.xtec.cat.selectionsort;
  * @version 1.0
  */
 public class SelectionSort {
+  public static void main(String[] args) {
+        // Imprimim el nom 
+        System.out.println("Nom i Cognoms: Alex Redolad");
+        System.out.println("He aprés molt fent el mòdul 8 de DAW encara que hagi estat dur!!!");
+     
 
     /**
      * Ordena l'array utilitzant l'algoritme SelectionSort.
@@ -54,3 +59,4 @@ public class SelectionSort {
         return false;
     }
 }
+ }
